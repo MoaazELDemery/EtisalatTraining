@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  EtisalatTraining
-//
-//  Created by M.Ibrahim on 05/07/2022.
-//
-
 import UIKit
 
 @main
