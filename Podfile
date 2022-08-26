@@ -7,5 +7,7 @@ target 'EtisalatTraining' do
 
   # Pods for EtisalatTraining
     pod 'Cosmos', '~> 23.0'
+    pod 'Kingfisher', '~> 7.0'
+
 
 end

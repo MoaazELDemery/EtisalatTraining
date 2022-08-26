@@ -3,8 +3,44 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-11%</string>
+		<key>oldPrice</key>
+		<real>6234.06</real>
+		<key>ratingNum</key>
+		<integer>2231</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Xiaomi</string>
 		<key>photo</key>
 		<string>redmiNote11</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/k/7/k7t____.png?format=webp&amp;width=368</string>
+			<string>https://med.greatecno.com/437498-large_default/xiaomi-redmi-note-11-nfc-4gb-128gb-dual-sim-gray.jpg</string>
+			<string>https://cdn.shopify.com/s/files/1/2700/1230/products/xiaomi_redmi_note_11_gris_grafito_01_l.jpg?v=1644236844</string>
+		</array>
 		<key>title</key>
 		<string>Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 64 GB, 4GB RAM, Graphite Gray</string>
 		<key>price</key>
@@ -16,11 +52,47 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<integer>4</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-15%</string>
+		<key>oldPrice</key>
+		<real>6934.06</real>
+		<key>ratingNum</key>
+		<real>1232</real>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Xiaomi</string>
 		<key>photo</key>
 		<string>redmiNote11</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/k/7/k7t____.png?format=webp&amp;width=368</string>
+			<string>https://med.greatecno.com/437498-large_default/xiaomi-redmi-note-11-nfc-4gb-128gb-dual-sim-gray.jpg</string>
+			<string>https://cdn.shopify.com/s/files/1/2700/1230/products/xiaomi_redmi_note_11_gris_grafito_01_l.jpg?v=1644236844</string>
+		</array>
 		<key>title</key>
 		<string>Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 128 GB, 6GB RAM, Graphite Gray</string>
 		<key>price</key>
@@ -32,11 +104,47 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<integer>4</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Samsung EG</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-27%</string>
+		<key>oldPrice</key>
+		<real>11204.06</real>
+		<key>ratingNum</key>
+		<integer>3132</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>9.2 Kilograms</string>
+		<key>material</key>
+		<string>Metal</string>
+		<key>dimensions</key>
+		<string>90 x 125 x 20 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Samsung</string>
 		<key>photo</key>
 		<string>samsung50</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/413Gac9rcdL._AC_SL1000_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/41mSCp6uEfL._AC_SL1000_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/31dRuZwl6PL._AC_SL1000_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>Samsung 50 Inch 4K UHD Smart LED TV with Built-in Receiver and Remote Control, Black - UA50AU7000UXEG</string>
 		<key>price</key>
@@ -48,15 +156,51 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<integer>5</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>LG EG</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-6%</string>
+		<key>oldPrice</key>
+		<real>14231</real>
+		<key>ratingNum</key>
+		<integer>4212</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>11.4 Kilograms</string>
+		<key>material</key>
+		<string>Metal</string>
+		<key>dimensions</key>
+		<string>90 x 125 x 20 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>LG</string>
 		<key>photo</key>
 		<string>LG50</string>
 		<key>title</key>
 		<string>LG UHD 4K TV 55 Inch UP75 Series, 4K Active HDR WebOS Smart AI ThinQ (New 2022)</string>
 		<key>price</key>
 		<real>9499.35</real>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/91DIMcvVHYL._AC_SL1500_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/51nZZyPzoIL._AC_SL1500_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/9193PSCRdhL._AC_SL1500_.jpg</string>
+		</array>
 		<key>sale</key>
 		<string>Extra 15% discount with code VISATHURSDAY</string>
 		<key>shippedAt</key>
@@ -64,11 +208,47 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>4</integer>
+		<integer>5</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-30%</string>
+		<key>oldPrice</key>
+		<integer>623</integer>
+		<key>ratingNum</key>
+		<integer>4241</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.13 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>2.7  x 7.4 x 1.4 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Nokia</string>
 		<key>photo</key>
 		<string>nokia106</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/61xkf-6QZ2L._AC_SL1500_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/41DVhrQuhbL._AC_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/61xkf-6QZ2L._AC_SL1500_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>Nokia 106 Dual SIM- Dark Grey</string>
 		<key>price</key>
@@ -80,13 +260,49 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<real>3.4</real>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-6%</string>
+		<key>oldPrice</key>
+		<real>6346</real>
+		<key>ratingNum</key>
+		<integer>1212</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Xiaomi</string>
 		<key>photo</key>
 		<string>redmiNote11</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/k/7/k7t____.png?format=webp&amp;width=368</string>
+			<string>https://med.greatecno.com/437498-large_default/xiaomi-redmi-note-11-nfc-4gb-128gb-dual-sim-gray.jpg</string>
+			<string>https://cdn.shopify.com/s/files/1/2700/1230/products/xiaomi_redmi_note_11_gris_grafito_01_l.jpg?v=1644236844</string>
+		</array>
 		<key>title</key>
-		<string>Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 64 GB, 4GB RAM, Graphite Gray</string>
+		<string>Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 265 GB, 4GB RAM, Graphite Gray</string>
 		<key>price</key>
 		<real>5594.06</real>
 		<key>sale</key>
@@ -96,11 +312,47 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>2</integer>
+		<real>4.1</real>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Samsung EG</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>Product Not Available</string>
+		<key>sale%</key>
+		<string>-0%</string>
+		<key>oldPrice</key>
+		<integer>0</integer>
+		<key>ratingNum</key>
+		<integer>0</integer>
+		<key>availability</key>
+		<string>Not Available</string>
+		<key>weight</key>
+		<string>9.7 Kilograms</string>
+		<key>material</key>
+		<string>Metal</string>
+		<key>dimensions</key>
+		<string>90 x 125 x 20 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>Samsung</string>
 		<key>photo</key>
 		<string>samsung43</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/61DOcUmc0EL._AC_SL1000_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/61ojpFX7+ML._AC_SL1000_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/41um3oidqZL._AC_SL1000_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>Samsung 43 Inch Full HD Smart LED TV with Built-in Receiver, Black - UA43T5300AUXEG</string>
 		<key>price</key>
@@ -115,8 +367,44 @@
 		<integer>0</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-8%</string>
+		<key>oldPrice</key>
+		<real>11994.06</real>
+		<key>ratingNum</key>
+		<integer>1232</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Cyan</string>
+		<key>brand</key>
+		<string>OPPO</string>
 		<key>photo</key>
 		<string>reno6cyan</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/41-A1G+L7VL._AC_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/31k3Rr1vNaL._AC_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/31FBC6NbjML._AC_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>OPPO Reno 6 5G - 6.4-inch 128GB/8GB Dual SIM 5G Mobile Phone - Aurora</string>
 		<key>price</key>
@@ -128,11 +416,47 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>raitng</key>
-		<integer>0</integer>
+		<integer>5</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-3%</string>
+		<key>oldPrice</key>
+		<real>10994.06</real>
+		<key>ratingNum</key>
+		<integer>223</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>White</string>
+		<key>brand</key>
+		<string>Samsung</string>
 		<key>photo</key>
-		<string>samsung43</string>
+		<string>samsunga53</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/71bK+C5amgL._AC_SL1500_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/81su2cX355L._AC_SL1500_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/81Tk00pS-QL._AC_SL1500_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>SAMSUNG Galaxy A53 5G Mobile Phone SIM, 256GB, 8GB RAM, White</string>
 		<key>price</key>
@@ -144,11 +468,47 @@
 		<key>shippedFrom</key>
 		<string>EGP 21.00 shipping</string>
 		<key>rating</key>
-		<integer>5</integer>
+		<integer>4</integer>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>Leader Stores</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-12%</string>
+		<key>oldPrice</key>
+		<real>12994.06</real>
+		<key>ratingNum</key>
+		<integer>1241</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>0.5 Kilograms</string>
+		<key>material</key>
+		<string>Plastic</string>
+		<key>dimensions</key>
+		<string>4.4 x 12.7 x 0.7 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>OPPO</string>
 		<key>photo</key>
 		<string>reno6black</string>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/41C7y+bwaEL.jpg</string>
+			<string>https://m.media-amazon.com/images/I/31mPKVvWX0L.jpg</string>
+			<string>https://media.btech.com/media/catalog/product/cache/8e279240a6612e9579d3be696bac1c07/o/p/oppo_reno6_dual_sim_128gb_8gb_ram_5g_-_stellar_black_pre-order_.jpg</string>
+		</array>
 		<key>title</key>
 		<string>Reno 6 5G Dual SIM Stellar Black 8GB RAM 128GB</string>
 		<key>price</key>
@@ -160,12 +520,48 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<real>4.2</real>
 	</dict>
 	<dict>
+		<key>sellerName</key>
+		<string>LG EG</string>
+		<key>spippedFromName</key>
+		<string>Amazon</string>
+		<key>shippedTo</key>
+		<string>Shipped To Cairo - Ahmed</string>
+		<key>tax</key>
+		<string>Price include Taxes</string>
+		<key>installment</key>
+		<string>You can buy using installment and pay 86.40 EGP for 60 Months with choosen banks</string>
+		<key>sale%</key>
+		<string>-13%</string>
+		<key>oldPrice</key>
+		<real>7994.06</real>
+		<key>ratingNum</key>
+		<integer>2231</integer>
+		<key>availability</key>
+		<string>Available</string>
+		<key>weight</key>
+		<string>7.2 Kilograms</string>
+		<key>material</key>
+		<string>Metal</string>
+		<key>dimensions</key>
+		<string>90 x 125 x 20 cm</string>
+		<key>modelNum</key>
+		<string>UA50AU7000UXEG</string>
+		<key>color</key>
+		<string>Black</string>
+		<key>brand</key>
+		<string>LG</string>
 		<key>photo</key>
 		<string>LG43</string>
-		<key>titlew</key>
+		<key>photoArray</key>
+		<array>
+			<string>https://m.media-amazon.com/images/I/71Oy86VIHbL._AC_SL1177_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/21NY6gAy2cL._AC_.jpg</string>
+			<string>https://m.media-amazon.com/images/I/21FywDrWlpL._AC_.jpg</string>
+		</array>
+		<key>title</key>
 		<string>LG LED Smart TV 43 inch LM6370 Series Full HD HDR Smart LED TV - 43LM6370PVA</string>
 		<key>price</key>
 		<real>6649</real>
@@ -176,7 +572,7 @@
 		<key>shippedFrom</key>
 		<string>Fulfilled by Amazon - FREE Shipping</string>
 		<key>rating</key>
-		<integer>0</integer>
+		<integer>5</integer>
 	</dict>
 </array>
 </plist>
