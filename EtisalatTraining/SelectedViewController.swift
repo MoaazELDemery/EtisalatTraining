@@ -39,7 +39,7 @@ class SelectedViewController: UIViewController,UITableViewDelegate,UITableViewDa
             return cell
         }else if indexPath.row == 1{
             let cell = selectedTableView.dequeueReusableCell(withIdentifier: "secondSelectedCell", for: indexPath)as! Selected2ndViewTableViewCell
-            cell.setupSecondCell(mainPrice: self.product?.mainPrice ?? 0, sale: self.product?.saleNum ?? "", oldPrice: self.product?.oldPrice ?? 0, tax: self.product?.tax ?? "", installment: self.product?.installment ?? "", shippedTo: self.product?.shippedTo ?? "", availability: self.product?.availability ?? "", shippedFromName: self.product?.shippedFromName ?? "", sellerName: self.product?.sellerName ?? "")
+            cell.setupSecondCell(mainPrice: self.product?.price ?? 0, sale: self.product?.saleNum ?? "", oldPrice: self.product?.oldPrice ?? 0, tax: self.product?.tax ?? "", installment: self.product?.installment ?? "", shippedTo: self.product?.shippedTo ?? "", availability: self.product?.availability ?? "", shippedFromName: self.product?.shippedFrom ?? "", sellerName: self.product?.sellerName ?? "")
             return cell
         }else{
             let cell = selectedTableView.dequeueReusableCell(withIdentifier: "thirdSelectedCell", for: indexPath)as! Selected3rdViewTableViewCell

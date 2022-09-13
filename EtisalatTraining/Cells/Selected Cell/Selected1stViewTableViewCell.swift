@@ -7,7 +7,7 @@ class Selected1stViewTableViewCell: UITableViewCell,UICollectionViewDelegate,UIC
     var isClicked = true
     var selectedDefaults = UserDefaults.standard
     var cellProduct: Product?
-    var arrPhotos = [String]()
+    var arrPhotos: [Data?] = []
     @IBOutlet weak var lblBrand: UILabel!
     @IBOutlet weak var ratingStars: CosmosView!
     @IBOutlet weak var lblRatingNum: UILabel!
@@ -63,9 +63,11 @@ class Selected1stViewTableViewCell: UITableViewCell,UICollectionViewDelegate,UIC
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = imageColView.dequeueReusableCell(withReuseIdentifier: "imageViewCell", for: indexPath)as! ImageViewCollectionViewCell
-        let photoUrl = arrPhotos[indexPath.row]
-        guard let imageURL = URL(string: photoUrl) else { return cell }
-        cell.imgProductArray.kf.setImage(with: imageURL)
+        
+        
+        if let imgData = arrPhotos[indexPath.row]{
+        cell.imgProductArray.image = UIImage(data: imgData)
+        }
         return cell
     }
     func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
@@ -76,10 +78,9 @@ class Selected1stViewTableViewCell: UITableViewCell,UICollectionViewDelegate,UIC
         lblBrand.text = cellProduct?.brand
         ratingStars.rating = cellProduct?.rating ?? 0
         lblProductTitle.text = cellProduct?.title
-        lblRatingNum.text = "\(String(describing: cellProduct!.ratingNum!))"
+        lblRatingNum.text = "\(cellProduct!.ratingNum ?? 0)"
         if let arrayOfImage = cellProduct?.photoArray, arrayOfImage.count > 0  {
             arrPhotos = arrayOfImage
-
         }
         if cellProduct?.isFav == true {
             btnFav.setImage(UIImage(systemName: "heart.fill"), for: .normal)

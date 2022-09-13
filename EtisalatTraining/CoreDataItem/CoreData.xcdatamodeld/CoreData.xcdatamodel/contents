@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="20G730" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ProductData" representedClassName="ProductData" syncable="YES">
+        <attribute name="availability" optional="YES" attributeType="String"/>
+        <attribute name="brand" optional="YES" attributeType="String"/>
+        <attribute name="color" optional="YES" attributeType="String"/>
+        <attribute name="dimensions" optional="YES" attributeType="String"/>
+        <attribute name="installment" optional="YES" attributeType="String"/>
+        <attribute name="material" optional="YES" attributeType="String"/>
+        <attribute name="oldPrice" optional="YES" attributeType="String"/>
+        <attribute name="photo1" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="photo2" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="photo3" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="price" attributeType="String"/>
+        <attribute name="rating" attributeType="String"/>
+        <attribute name="sale" attributeType="String"/>
+        <attribute name="salePerc" optional="YES" attributeType="String"/>
+        <attribute name="seller" optional="YES" attributeType="String"/>
+        <attribute name="shippedAt" attributeType="String"/>
+        <attribute name="shippedFrom" attributeType="String"/>
+        <attribute name="tax" optional="YES" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="weight" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ProductData" positionX="-54" positionY="-9" width="128" height="329"/>
+    </elements>
+</model>

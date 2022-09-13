@@ -5,7 +5,7 @@ class Product: NSObject, Codable{
     var sale: String?
     var shippedAt: String?
     var shippedFrom: String?
-    var photo: String?
+    var photo: Data?
     var price: Double?, rating: Double?
     var brand: String?
     var ratingNum: Double?
@@ -24,9 +24,9 @@ class Product: NSObject, Codable{
     var shippedFromName: String?
     var sellerName: String?
     var isFav = false
-    var photoArray: [String]?
+    var photoArray: [Data?]
     
-    init(photo: String?, title: String?, price: Double?, sale: String?, shippedAt: String?, shippedFrom: String?, rating:Double?, brand: String?, ratingNum:Double?, dimensions: String?, color: String?, material: String?, weight: String?, model: String?, mainPrice: Double?, saleNum: String?, oldPrice: Double?, tax: String?, installment: String?, shippedTo: String?, availability: String?, shippedFromName: String?, sellerName: String?,photoArray: [String]?) {
+    init(photo: Data?, title: String?, price: Double?, sale: String?, shippedAt: String?, shippedFrom: String?, rating:Double?, brand: String?, ratingNum:Double?, dimensions: String?, color: String?, material: String?, weight: String?, model: String?, mainPrice: Double?, saleNum: String?, oldPrice: Double?, tax: String?, installment: String?, shippedTo: String?, availability: String?, shippedFromName: String?, sellerName: String?,photoArray: [Data?]) {
         self.photo = photo
         self.title = title
         self.price = price

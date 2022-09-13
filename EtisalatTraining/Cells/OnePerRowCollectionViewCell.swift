@@ -36,10 +36,10 @@ class OnePerRowCollectionViewCell: UICollectionViewCell {
             }
         }
     }
-    func setupCell(photo:String?, title:String, price:Double, sale:String, shippedAt:String, shipedFrom: String, rating:Double){
+    func setupCell(photo:Data?, title:String, price:Double, sale:String, shippedAt:String, shipedFrom: String, rating:Double){
         
-        if let img = photo {
-            imgProductPhoto.image = UIImage(named: img)
+        if let imgData = photo {
+            imgProductPhoto.image = UIImage(data: imgData)
         }
         lblProductPrice.text = "\(String(describing: price)) EGP"
         lblProductTitle.text = title

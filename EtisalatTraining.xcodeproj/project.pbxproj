@@ -18,12 +18,16 @@
 		D337A95E2874A21D009737F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D337A95D2874A21D009737F4 /* AppDelegate.swift */; };
 		D337A9602874A21D009737F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D337A95F2874A21D009737F4 /* SceneDelegate.swift */; };
 		D337A9622874A21D009737F4 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D337A9612874A21D009737F4 /* ProductViewController.swift */; };
+		D37A52D628C76FE200D53D8C /* CoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D37A52D428C76FE200D53D8C /* CoreData.xcdatamodeld */; };
+		D37A52DA28C771B200D53D8C /* CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37A52D828C771B200D53D8C /* CoreDataProperties.swift */; };
+		D37A52DB28C771B200D53D8C /* CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37A52D928C771B200D53D8C /* CoreDataClass.swift */; };
 		D3B4F19B28B27C4200AAECDA /* FavouritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B4F19A28B27C4200AAECDA /* FavouritesViewController.swift */; };
 		D3B4F19E28B27CC300AAECDA /* FavoritesProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B4F19C28B27CC300AAECDA /* FavoritesProductTableViewCell.swift */; };
 		D3B4F19F28B27CC300AAECDA /* FavoritesProductTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3B4F19D28B27CC300AAECDA /* FavoritesProductTableViewCell.xib */; };
 		D3B4F1A228B27CD800AAECDA /* Selected1stViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B4F1A028B27CD800AAECDA /* Selected1stViewTableViewCell.swift */; };
 		D3B4F1A328B27CD800AAECDA /* Selected1stViewTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3B4F1A128B27CD800AAECDA /* Selected1stViewTableViewCell.xib */; };
 		D3BB1EEA2899C5C0008B37F0 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = D3F0604E28970C2700FC9777 /* Data.plist */; };
+		D3BB348428C78E4100E15699 /* AddProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BB348328C78E4100E15699 /* AddProductViewController.swift */; };
 		D3D282E828B5323A00BD9A27 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D282E728B5323A00BD9A27 /* UIView+Extension.swift */; };
 		D3D282EB28B5A4AD00BD9A27 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D282EA28B5A4AD00BD9A27 /* Product.swift */; };
 		D3E6481528973A6D0002E1C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D337A9632874A21D009737F4 /* Main.storyboard */; };
@@ -53,11 +57,15 @@
 		D337A9662874A21E009737F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D337A9692874A21E009737F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D337A96B2874A21E009737F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D37A52D528C76FE200D53D8C /* CoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreData.xcdatamodel; sourceTree = "<group>"; };
+		D37A52D828C771B200D53D8C /* CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataProperties.swift; sourceTree = "<group>"; };
+		D37A52D928C771B200D53D8C /* CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataClass.swift; sourceTree = "<group>"; };
 		D3B4F19A28B27C4200AAECDA /* FavouritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouritesViewController.swift; sourceTree = "<group>"; };
 		D3B4F19C28B27CC300AAECDA /* FavoritesProductTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesProductTableViewCell.swift; sourceTree = "<group>"; };
 		D3B4F19D28B27CC300AAECDA /* FavoritesProductTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FavoritesProductTableViewCell.xib; sourceTree = "<group>"; };
 		D3B4F1A028B27CD800AAECDA /* Selected1stViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selected1stViewTableViewCell.swift; sourceTree = "<group>"; };
 		D3B4F1A128B27CD800AAECDA /* Selected1stViewTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Selected1stViewTableViewCell.xib; sourceTree = "<group>"; };
+		D3BB348328C78E4100E15699 /* AddProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddProductViewController.swift; sourceTree = "<group>"; };
 		D3D282E728B5323A00BD9A27 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		D3D282EA28B5A4AD00BD9A27 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		D3F060462895723C00FC9777 /* OnePerRowCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnePerRowCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -125,6 +133,7 @@
 		D337A95C2874A21D009737F4 /* EtisalatTraining */ = {
 			isa = PBXGroup;
 			children = (
+				D37A52D728C7718600D53D8C /* CoreDataItem */,
 				D380320128972363003CDCF9 /* Products Data */,
 				D3F06045289571D100FC9777 /* Cells */,
 				D337A95D2874A21D009737F4 /* AppDelegate.swift */,
@@ -132,6 +141,7 @@
 				D337A9612874A21D009737F4 /* ProductViewController.swift */,
 				D3B4F19A28B27C4200AAECDA /* FavouritesViewController.swift */,
 				D3021F1328B39D2E00D92B95 /* SelectedViewController.swift */,
+				D3BB348328C78E4100E15699 /* AddProductViewController.swift */,
 				D337A9632874A21D009737F4 /* Main.storyboard */,
 				D337A9662874A21E009737F4 /* Assets.xcassets */,
 				D337A9682874A21E009737F4 /* LaunchScreen.storyboard */,
@@ -139,6 +149,16 @@
 				D3D282E628B5323A00BD9A27 /* Extensions */,
 			);
 			path = EtisalatTraining;
+			sourceTree = "<group>";
+		};
+		D37A52D728C7718600D53D8C /* CoreDataItem */ = {
+			isa = PBXGroup;
+			children = (
+				D37A52D928C771B200D53D8C /* CoreDataClass.swift */,
+				D37A52D828C771B200D53D8C /* CoreDataProperties.swift */,
+				D37A52D428C76FE200D53D8C /* CoreData.xcdatamodeld */,
+			);
+			path = CoreDataItem;
 			sourceTree = "<group>";
 		};
 		D380320128972363003CDCF9 /* Products Data */ = {
@@ -305,15 +325,19 @@
 			files = (
 				D3B4F19B28B27C4200AAECDA /* FavouritesViewController.swift in Sources */,
 				D3B4F1A228B27CD800AAECDA /* Selected1stViewTableViewCell.swift in Sources */,
+				D37A52D628C76FE200D53D8C /* CoreData.xcdatamodeld in Sources */,
+				D3BB348428C78E4100E15699 /* AddProductViewController.swift in Sources */,
 				D337A9622874A21D009737F4 /* ProductViewController.swift in Sources */,
 				D3021F1028B291A600D92B95 /* Selected3rdViewTableViewCell.swift in Sources */,
 				D3B4F19E28B27CC300AAECDA /* FavoritesProductTableViewCell.swift in Sources */,
 				D337A95E2874A21D009737F4 /* AppDelegate.swift in Sources */,
 				D3D282E828B5323A00BD9A27 /* UIView+Extension.swift in Sources */,
+				D37A52DB28C771B200D53D8C /* CoreDataClass.swift in Sources */,
 				D3F0604C2895724E00FC9777 /* TwoPerRowCollectionViewCell.swift in Sources */,
 				D3021F1428B39D2E00D92B95 /* SelectedViewController.swift in Sources */,
 				D3021F0C28B2919300D92B95 /* Selected2ndViewTableViewCell.swift in Sources */,
 				D337A9602874A21D009737F4 /* SceneDelegate.swift in Sources */,
+				D37A52DA28C771B200D53D8C /* CoreDataProperties.swift in Sources */,
 				D31A35A528B93B8900292BC6 /* ImageViewCollectionViewCell.swift in Sources */,
 				D3F060482895723C00FC9777 /* OnePerRowCollectionViewCell.swift in Sources */,
 				D3D282EB28B5A4AD00BD9A27 /* Product.swift in Sources */,
@@ -536,6 +560,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		D37A52D428C76FE200D53D8C /* CoreData.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				D37A52D528C76FE200D53D8C /* CoreData.xcdatamodel */,
+			);
+			currentVersion = D37A52D528C76FE200D53D8C /* CoreData.xcdatamodel */;
+			path = CoreData.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = D337A9522874A21D009737F4 /* Project object */;
 }
